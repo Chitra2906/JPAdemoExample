@@ -1,6 +1,7 @@
 # JPAdemoExample
-
-
+Error:
+************************** APPLICATION FAILED TO START *************************** Description: Web server failed to start. Port 8080 was already in use. Action: Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+Solution:
 Check what processes are running at available ports.
 netstat -ao |find /i "listening"
 OR
