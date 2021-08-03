@@ -36,7 +36,7 @@ The container 'Maven Dependencies' references non existing library 'C:\Users\HOM
 
 _Form :_
 
-![image](https://user-images.githubusercontent.com/63113379/127909910-2ae5e1ab-95af-45f3-a299-e8d2e163e782.png)
+![image](https://user-images.githubusercontent.com/63113379/128078292-e3a421a9-4d60-4c1b-a17e-210935f92e5f.png)
 
 _DB:_
 
@@ -46,3 +46,10 @@ login:http://localhost:8080/h2-console
 Data inserted from the form :
 
 ![image](https://user-images.githubusercontent.com/63113379/127909493-c1fd2cda-c988-4f7f-ac09-854be70900cc.png)
+
+
+
+showUser():JSONPObject and ResponseBody used instead of ModelAndView
+![image](https://user-images.githubusercontent.com/63113379/128078349-812c5c06-b37a-4bc1-82e4-2e1ffd5b2ff4.png)
+
+
